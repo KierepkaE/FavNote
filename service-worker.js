@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FavNote.git/precache-manifest.0ee6622d053bd7ab0cf1018a4dc15e34.js"
+  "/FavNoteApp.git/precache-manifest.62c205e2322947c097935b7719bc863e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/FavNote.git/index.html", {
+workbox.routing.registerNavigationRoute("/FavNoteApp.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
