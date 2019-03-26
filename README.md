@@ -22,4 +22,4 @@ Project is: in progress.
  Readme based on www.flynerd.pl article.
 
 ## Contact
-Created by KierepkaE - feel free to contact me!
+Created by KierepkaE (kierepkaedyta@gmail.com)- feel free to contact me!
