@@ -5,7 +5,7 @@
 
 
 ## General info
-This app was created during my React.js course. 
+This app was created during my React course. 
 
 
 ## Technologies
