@@ -1,14 +1,14 @@
 {
-  "main.css": "/FavNoteApp.git/static/css/main.dceeac04.chunk.css",
-  "main.js": "/FavNoteApp.git/static/js/main.2f7a2734.chunk.js",
-  "main.js.map": "/FavNoteApp.git/static/js/main.2f7a2734.chunk.js.map",
-  "runtime~main.js": "/FavNoteApp.git/static/js/runtime~main.a8fb1ff0.js",
-  "runtime~main.js.map": "/FavNoteApp.git/static/js/runtime~main.a8fb1ff0.js.map",
-  "static/js/2.d138ff7d.chunk.js": "/FavNoteApp.git/static/js/2.d138ff7d.chunk.js",
-  "static/js/2.d138ff7d.chunk.js.map": "/FavNoteApp.git/static/js/2.d138ff7d.chunk.js.map",
-  "index.html": "/FavNoteApp.git/index.html",
-  "precache-manifest.62c205e2322947c097935b7719bc863e.js": "/FavNoteApp.git/precache-manifest.62c205e2322947c097935b7719bc863e.js",
-  "service-worker.js": "/FavNoteApp.git/service-worker.js",
-  "static/css/main.dceeac04.chunk.css.map": "/FavNoteApp.git/static/css/main.dceeac04.chunk.css.map",
-  "static/media/logo.svg": "/FavNoteApp.git/static/media/logo.a87d0f35.svg"
+  "main.css": "/FavNote/static/css/main.dceeac04.chunk.css",
+  "main.js": "/FavNote/static/js/main.2f7a2734.chunk.js",
+  "main.js.map": "/FavNote/static/js/main.2f7a2734.chunk.js.map",
+  "runtime~main.js": "/FavNote/static/js/runtime~main.f74df7ad.js",
+  "runtime~main.js.map": "/FavNote/static/js/runtime~main.f74df7ad.js.map",
+  "static/js/2.d138ff7d.chunk.js": "/FavNote/static/js/2.d138ff7d.chunk.js",
+  "static/js/2.d138ff7d.chunk.js.map": "/FavNote/static/js/2.d138ff7d.chunk.js.map",
+  "index.html": "/FavNote/index.html",
+  "precache-manifest.53d27f4303ccff2db712e18b1c8b513f.js": "/FavNote/precache-manifest.53d27f4303ccff2db712e18b1c8b513f.js",
+  "service-worker.js": "/FavNote/service-worker.js",
+  "static/css/main.dceeac04.chunk.css.map": "/FavNote/static/css/main.dceeac04.chunk.css.map",
+  "static/media/logo.svg": "/FavNote/static/media/logo.a87d0f35.svg"
 }
