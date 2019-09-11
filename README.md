@@ -6,16 +6,16 @@
  ### Add your favourite notes, articles and twitters! 
  
  ```
-React 
+ React 
 
 ```
 
 ```
- React Router
+React Router
  ```
  ```
  HTML
  ```
  ```
-CSS
+ CSS
 ```
